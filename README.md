@@ -15,13 +15,6 @@ A simple Python program that creates vibrant geometric patch designs using the `
 - Dynamic drawing using the `graphics.py` library for easy visualization.  
 - Demonstrates foundational concepts in graphics programming, user interaction, and geometric design.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x  
-- `graphics.py` module (Zelle’s Graphics Library) — download from [here](http://mcsp.wartburg.edu/zelle/python/graphics.py) and place it in your project directory or Python path.
-
 ### Running the Program
 
 1. Run the script:
